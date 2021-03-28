@@ -12,5 +12,9 @@ int main(){
 		if (a[i] > max)	max = a[i];
 		else res += max-a[i];
 	}
-	cout << res;	
+	cout << res;
+	cout << "Minh dep trai";
+		cout << "Minh dep trai";
+		cout << "Minh dep trai";
+		cout << "Minh dep trai";
 }
